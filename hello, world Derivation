@@ -1,0 +1,1 @@
+program => line line => number statement CR line => 10 statement CR line => 10 print expression list CR line => 10 print string CR line => 10 print "hello, world" CR line => 10 print "hello, world" CR number statement CR => 10 print "hello, world" CR 20 statement CR => 10 print "hello, world" CR 20 end CR
